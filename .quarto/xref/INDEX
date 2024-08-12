@@ -1,0 +1,167 @@
+{
+  "index.ipynb": {
+    "index.html": "51355dae"
+  },
+  "practice_sessions/practice_1-1_variables.ipynb": {
+    "practice_1-1_variables.html": "777e9805"
+  },
+  "practice_sessions/practice_2-2_structured_data.ipynb": {
+    "practice_2-2_structured_data.html": "81b63d10"
+  },
+  "practice_sessions/practice_4-1_pandas.ipynb": {
+    "practice_4-1_pandas.html": "65b8efb6"
+  },
+  "practice_sessions/answerkeys/practice_1-2_lists_key.ipynb": {
+    "practice_1-2_lists_key.html": "e8cc8745"
+  },
+  "practice_sessions/answerkeys/practice_1-1_variables_key.ipynb": {
+    "practice_1-1_variables_key.html": "21233d9b"
+  },
+  "practice_sessions/answerkeys/practice_2-2_structured_data_key.ipynb": {
+    "practice_2-2_structured_data_key.html": "70fdcd4c"
+  },
+  "practice_sessions/answerkeys/practice_99_functions_objects_classes_key.ipynb": {
+    "practice_99_functions_objects_classes_key.html": "fbd1260a"
+  },
+  "practice_sessions/answerkeys/practice_2-1_control_flow_statements_key.ipynb": {
+    "practice_2-1_control_flow_statements_key.html": "eeb8927f"
+  },
+  "practice_sessions/answerkeys/practice_3-1_numpy_key.ipynb": {
+    "practice_3-1_numpy_key.html": "62536e97"
+  },
+  "practice_sessions/answerkeys/practice_5-1_matplotlib_key.ipynb": {
+    "practice_5-1_matplotlib_key.html": "4a97f24a"
+  },
+  "practice_sessions/answerkeys/practice_4-1_pandas_key.ipynb": {
+    "practice_4-1_pandas_key.html": "c688ed72"
+  },
+  "practice_sessions/practice_sessions.ipynb": {
+    "practice_sessions.html": "3973fc9d"
+  },
+  "practice_sessions/practice_2-1_control_flow_statements.ipynb": {
+    "practice_2-1_control_flow_statements.html": "28b3c3e9"
+  },
+  "practice_sessions/practice_3-1_numpy.ipynb": {
+    "practice_3-1_numpy.html": "667e5af4"
+  },
+  "practice_sessions/practice_5-1_matplotlib.ipynb": {
+    "practice_5-1_matplotlib.html": "734450a6"
+  },
+  "practice_sessions/practice_1-2_lists.ipynb": {
+    "practice_1-2_lists.html": "da8f115f"
+  },
+  "trypy/02_trypy_conditionals_and_loops/conditionals_and_loops 2.ipynb": {
+    "conditionals_and_loops 2.html": "d618b4f5"
+  },
+  "trypy/02_trypy_conditionals_and_loops/conditionals_and_loops.ipynb": {
+    "conditionals_and_loops.html": "46555de5"
+  },
+  "trypy/99_trypy_data_types/data_types_exercise.ipynb": {
+    "data_types_exercise.html": "14a5ce4f"
+  },
+  "trypy/99_trypy_data_types/data_types_exercise 2.ipynb": {
+    "data_types_exercise 2.html": "c6c39ac2"
+  },
+  "trypy/01_trypy_stl_blood/stl_blood_exercise.ipynb": {
+    "stl_blood_exercise.html": "8aa6cbf9"
+  },
+  "trypy/trypy.ipynb": {
+    "trypy.html": "7eb403f5"
+  },
+  "interactive_sessions/3-1_numpy.ipynb": {
+    "3-1_numpy.html": "1bd0ae84"
+  },
+  "interactive_sessions/test_environment.ipynb": {
+    "test_environment.html": "886b52a4"
+  },
+  "interactive_sessions/1-1_variables.ipynb": {
+    "1-1_variables.html": "e2afc078"
+  },
+  "interactive_sessions/4-1_pandas.ipynb": {
+    "4-1_pandas.html": "ea44c4d4"
+  },
+  "interactive_sessions/0-1_ready_set_python.ipynb": {
+    "0-1_ready_set_python.html": "be774f85"
+  },
+  "interactive_sessions/99_hello_world.ipynb": {
+    "99_hello_world.html": "8778614b"
+  },
+  "interactive_sessions/conda_setup.ipynb": {
+    "conda_setup.html": "625b2b73"
+  },
+  "interactive_sessions/0-2_hello_data_science.ipynb": {
+    "0-2_hello_data_science.html": "ff4e9ed9"
+  },
+  "interactive_sessions/1-2_lists.ipynb": {
+    "1-2_lists.html": "7769580f"
+  },
+  "interactive_sessions/2-1_control_flow_statements.ipynb": {
+    "2-1_control_flow_statements.html": "1037d2f0"
+  },
+  "interactive_sessions/enumerate_and_zip.ipynb": {
+    "enumerate_and_zip.html": "9a670190"
+  },
+  "interactive_sessions/survey_responses.ipynb": {
+    "survey_responses.html": "16f8a1f6"
+  },
+  "interactive_sessions/99_scipy.ipynb": {
+    "99_scipy.html": "97efbcda"
+  },
+  "interactive_sessions/dictionary.ipynb": {
+    "dictionary.html": "a6b230f8"
+  },
+  "interactive_sessions/99_functions_objects_classes.ipynb": {
+    "99_functions_objects_classes.html": "f569d7c0"
+  },
+  "interactive_sessions/vscode_setup.ipynb": {
+    "vscode_setup.html": "fcad9c69"
+  },
+  "interactive_sessions/Setting_up_local.ipynb": {
+    "Setting_up_local.html": "c9da3d76"
+  },
+  "interactive_sessions/jupyter_setup.ipynb": {
+    "jupyter_setup.html": "8c50e365"
+  },
+  "interactive_sessions/2-2_structured_data.ipynb": {
+    "2-2_structured_data.html": "bfb2beac"
+  },
+  "interactive_sessions/5-1_matplotlib.ipynb": {
+    "5-1_matplotlib.html": "515eace4"
+  },
+  "interactive_sessions/interactive_sessions.ipynb": {
+    "interactive_sessions.html": "cd7d38d5"
+  },
+  "interactive_sessions/99_seaborn.ipynb": {
+    "99_seaborn.html": "d6235169"
+  },
+  "group_project/python_data_science_show_and_tell.ipynb": {
+    "python_data_science_show_and_tell.html": "84fcf872"
+  },
+  "group_project/data_science_ice_breaker.ipynb": {
+    "data_science_ice_breaker.html": "8c66f5da"
+  },
+  "lectures/lectures.ipynb": {
+    "lectures.html": "28102fc3"
+  },
+  "lectures/03-debugging.ipynb": {
+    "03-debugging.html": "79748b91"
+  },
+  "lectures/04-next_steps.ipynb": {
+    "04-next_steps.html": "100e4da5"
+  },
+  "lectures/99_dry_vs_wet.ipynb": {
+    "99_dry_vs_wet.html": "c6380565"
+  },
+  "lectures/02_helpGPT.ipynb": {
+    "02_helpGPT.html": "73404ffa"
+  },
+  "lectures/libraries.md": {
+    "libraries.html": "df7b132c"
+  },
+  "lectures/01_the_zen_of_python.ipynb": {
+    "01_the_zen_of_python.html": "839682a5"
+  },
+  "lectures/00_intro_to_python.ipynb": {
+    "00_intro_to_python.html": "c15b9281"
+  }
+}
