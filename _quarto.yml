@@ -1,7 +1,7 @@
 project:
   title: "EDS 217: Python for Environmental Data Science"
   type: website
-  output-dir: docs
+  output-dir: website
   render:
     - "/index.ipynb"
     - "practice_sessions/"
