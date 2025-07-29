@@ -3,7 +3,7 @@
 
 ## Course Website
 
-The course description, learning goals, format, and outline with links to all activities can be found at the [course website](https://bit.ly/eds217_2023). 
+The course description, learning goals, format, and outline with links to all activities can be found at the [[course website](https://bit.ly/eds217_2023). ](https://eds-217-essential-python.github.io).
 
 ## How to use this repository
 
